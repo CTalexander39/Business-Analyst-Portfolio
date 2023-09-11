@@ -11,7 +11,7 @@ The technical skills i have obtained throughout my career, enable me to leverage
 Thankyou for engaging with my content! Should you have any questions, technical difficulties or require anymore information - please contact me via email: Timmc.2@outlook.com
 
 ## Portfolio Content
-1. **Introduction -**
+1. [**Introduction -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/README.md)
 2. **Projects -**
 3. [**CV -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/Business%20Analyst%20TC.pdf)
 4. **Business Computing BSc 2021 -**
@@ -19,4 +19,4 @@ Thankyou for engaging with my content! Should you have any questions, technical 
 6. **User Stories -**
 7. **Process Mapping -**
 
-[**CV -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/Business%20Analyst%20TC.pdf)
+[**Business Computing BSc 2021 -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/README.md)
