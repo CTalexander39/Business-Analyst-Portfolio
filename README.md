@@ -13,10 +13,10 @@ Thankyou for engaging with my content! Should you have any questions, technical 
 ## Portfolio Content
 1. **Introduction -**
 2. **Projects -**
-3. **CV -** (https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/Business%20Analyst%20TC.pdf) 
+3. [**CV -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/Business%20Analyst%20TC.pdf)
 4. **Business Computing BSc 2021 -**
 5. **Certifications -**
 6. **User Stories -**
 7. **Process Mapping -**
 
-[**CV**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/Business%20Analyst%20TC.pdf)
+[**CV -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/Business%20Analyst%20TC.pdf)
