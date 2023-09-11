@@ -11,11 +11,12 @@ The technical skills i have obtained throughout my career, enable me to leverage
 Thankyou for engaging with my content! Should you have any questions, technical difficulties or require anymore information - please contact me via email: Timmc.2@outlook.com
 
 ## Portfolio Content
-* **INTRODUCTION -**
-* **PROJECTS -**
-* **BUSINESS COMPUTING BSc -**
-* **CERTIFICATIONS -**
-* **USER STORIES -**
-* **PROCESS MAPPING -**
+1. **Introduction -**
+2. **Projects -**
+3. **CV -**
+4. **Business Computing BSc 2021 -**
+5. **Certifications -**
+6. **User Stories -**
+7. **Process Mapping -**
 
 
