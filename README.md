@@ -15,8 +15,9 @@ Thankyou for engaging with my content! Should you have any questions, technical 
 2. **Projects -**
 3. [**CV -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/Business%20Analyst%20TC.pdf)
 4. **Business Computing BSc 2021 -**
-5. **Certifications -**
+5. [**Certifications -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/tree/main/Certifications)
 6. **User Stories -**
 7. **Process Mapping -**
 
-[**Business Computing BSc 2021 -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/README.md)
+[**Process Mapping -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/tree/main/Certifications)
+https://github.com/CTalexander39/Business-Analyst-Portfolio/tree/main/Certifications
