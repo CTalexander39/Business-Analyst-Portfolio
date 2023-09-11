@@ -10,7 +10,7 @@ The technical skills i have obtained throughout my career, enable me to leverage
 
 Thankyou for engaging with my content! Should you have any questions, technical difficulties or require anymore information - please contact me via email: Timmc.2@outlook.com
 
-## Portfolio Content
+## Portfolio Content - 
 1. [**Introduction -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/README.md)
 2. **Projects -**
 3. [**CV -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/Business%20Analyst%20TC.pdf)
