@@ -10,3 +10,9 @@ In addition to my technical skills, I also pride myself on my critical thinking 
 
 
 ## Portfolio Content
+* **INTRODUCTION -**
+* **PROJECTS**
+* **BUSINESS COMPUTING BSc**
+* **CERTIFICATIONS**
+* 
+
