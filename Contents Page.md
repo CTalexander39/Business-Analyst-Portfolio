@@ -16,4 +16,4 @@ Thankyou for engaging with my content! Should you have any questions, technical 
 3. [**CV -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/blob/main/TC%20BA%20CV.pdf)
 4. [**Business Computing BSc 2021 -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/tree/main/Business%20Computing%20BSc%202021)
 5. [**Certifications -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/tree/main/Certifications)
-6. [**Data Analytics -**] (https://github.com/CTalexander39/Business-Analyst-Portfolio/tree/main/Data%20Analytics)
+6. [**Data Analytics -**](https://github.com/CTalexander39/Business-Analyst-Portfolio/tree/main/Data%20Analytics)
