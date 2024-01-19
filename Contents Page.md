@@ -1,6 +1,6 @@
-# Business Analyst Portfolio
+# 2024 Portfolio
 
-Hello! My name is Tim Campbell and welcome to my Business Analyst portfolio...
+Hello! My name is Tim Campbell and welcome to my portfolio...
 
 I am an aspiring business analyst with experience in using a wide variety of agile & waterfall tools and techniques, paired with a technical background.
 
